@@ -7,25 +7,25 @@
         "title": "Golden at the Capture of Hermann Goering",
         "description": "The Capturing of Hermann Goering took place on May 8th, 1945. Goerings capture took place at the Fischorn castle in Austria.",
         "episode": "https://www.oldtimestalk.com/episodes/episode-2-the-one-called-weezie",
-        "image": "https://images.squarespace-cdn.com/content/v1/6923898f0664741651aab873/a6313068-d046-4a42-8923-a7c1d22a3a47/Screenshot+2025-12-14+at+00.26.10.png?format=750w"
+        "image": "https://images.squarespace-cdn.com/..."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [12.8150259, 47.288365]
       }
-      {
-  "type": "Feature",
-  "properties": {
-    "title": "Wheeler Wedding",
-    "description": "Photo of Sharon and Phil at their wedding in Salt Lake City",
-    "episode": "https://www.oldtimestalk.com/episodes/episode-3-the-one-who-quilts",
-    "image": "https://images.squarespace-cdn.com/content/6923898f0664741651aab873/0d64371e-2b8d-4ba6-b6d2-ec8d94d5a053/003.JPG?content-type=image%2Fjpeg"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-111.892662, 40.770401]  
-  }
-}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wheeler Wedding",
+        "description": "Photo of Sharon and Phil at their wedding in Salt Lake City",
+        "episode": "https://www.oldtimestalk.com/episodes/episode-3-the-one-who-quilts",
+        "image": "https://images.squarespace-cdn.com/..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.892662, 40.770401]
+      }
     }
   ]
 }
