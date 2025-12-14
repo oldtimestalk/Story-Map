@@ -13,6 +13,19 @@
         "type": "Point",
         "coordinates": [12.8150259, 47.288365]
       }
+      {
+  "type": "Feature",
+  "properties": {
+    "title": "Wheeler Wedding",
+    "description": "Photo of Sharon and Phil at their wedding in Salt Lake City",
+    "episode": "https://www.oldtimestalk.com/episodes/episode-3-the-one-who-quilts",
+    "image": "https://images.squarespace-cdn.com/content/6923898f0664741651aab873/0d64371e-2b8d-4ba6-b6d2-ec8d94d5a053/003.JPG?content-type=image%2Fjpeg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-111.892662, 40.770401]  
+  }
+}
     }
   ]
 }
