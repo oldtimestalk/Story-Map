@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Grandma’s Childhood Home",
+        "description": "Stories about growing up during the Depression.",
+        "episode": "https://oldtimestalk.com/episodes/the-one-called-weezie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.8910, 40.7608]
+      }
+    }
+  ]
+}
